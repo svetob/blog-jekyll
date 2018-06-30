@@ -3,6 +3,8 @@ layout: single
 title:  "Experiments over Discussions"
 date:   2018-06-29 17:50:58 +0200
 categories: "humans"
+header:
+  teaser: /assets/images/john-matychuk-479013-unsplash.jpg
 ---
 
 Remember the last time you had a long, heated discussion and found a perfect solution? Me neither.
@@ -21,6 +23,7 @@ What came of it? Nothing. After a month with no agreement, we jumped onto a new 
 
 What could we have done differently?
 
+![Photo by John Matychuk on Unsplash]({{ site.url }}{{ site.baseurl }}/assets/images/john-matychuk-479013-unsplash.jpg)
 
 # Searching for an Experiment
 
