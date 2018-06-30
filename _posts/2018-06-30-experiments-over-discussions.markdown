@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Experiments over Discussions"
-date:   2018-06-29 17:50:58 +0200
-categories: "humans"
+date:   2018-06-30 17:50:58 +0200
+categories: "humans, teams"
 header:
   teaser: /assets/images/john-matychuk-479013-unsplash.jpg
 ---
